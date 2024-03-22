@@ -1,5 +1,5 @@
 #include<iostream>
-ii
+
 using namespace std;
 
 int main(){
